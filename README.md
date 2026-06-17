@@ -2,7 +2,6 @@
 
 [![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Tests](https://github.com/VVSanchez/prompt-testing-framework/actions/workflows/tests.yml/badge.svg)](https://github.com/VVSanchez/prompt-testing-framework/actions)
 
 **Production-ready фреймворк для автоматизированного тестирования LLM-промптов с поддержкой сравнения версий, метриками качества и CI/CD интеграцией.**
 
