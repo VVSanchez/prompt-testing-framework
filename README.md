@@ -120,7 +120,7 @@ Avg Latency             1.950s          2.150s          🐢 +0.200s
 
 | Категория | Технологии |
 |-----------|-----------|
-| **Язык** | Python 3.10+ |
+| **Язык** | Python 3.13 |
 | **LLM** | DeepSeek API (OpenAI-compatible) |
 | **Метрики** | TF-IDF + Cosine Similarity (scikit-learn) |
 | **Данные** | pandas |
