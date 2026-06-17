@@ -49,7 +49,7 @@
 ### 1. Клонирование и установка
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/prompt-testing-framework.git
+git clone https://github.com/VVSanchez/prompt-testing-framework.git
 cd prompt-testing-framework
 
 # Создаем виртуальное окружение
