@@ -232,5 +232,4 @@ MIT License — используйте свободно.
 ## 👤 Author
 
 **Arsenii Zhuravlev** — Senior AI Specialist  
-📧 arseniizh.work@yandex.ru  
-💼 [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
+📧 arseniizh.work@yandex.ru
