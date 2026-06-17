@@ -91,10 +91,10 @@ python main.py --compare v1 v2
 ## 📊 Примеры отчетов
 
 ### Отчет по одной версии
-![Test Report](docs/screenshots/test-report.png)
+![Test Report](test-report.png)
 
 ### Сравнение версий v1 vs v2
-![Comparison Report](docs/screenshots/comparison-report.png)
+![Comparison Report](comparison-report.png)
 
 ### Пример вывода консоли
 
